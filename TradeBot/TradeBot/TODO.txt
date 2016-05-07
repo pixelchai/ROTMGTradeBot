@@ -1,0 +1,8 @@
+﻿TODO:
+When do /tb com again, re-load all trades --
+tb export and import
+more actions such as deposit product
+trade simulation (inventory viewer)
+nickname sup --
+alt sup
+swfless deposit sup
